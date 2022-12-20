@@ -1,4 +1,4 @@
-import Image from 'next/Image';
+import Image from 'next/image'
 import { getPosts } from '../utils/mdx-utils';
 
 import { Nav, Layout } from '../components';
