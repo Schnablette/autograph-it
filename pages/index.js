@@ -1,9 +1,7 @@
 import Image from 'next/Image';
 import { getPosts } from '../utils/mdx-utils';
 
-import Footer from '../components/Footer';
 import { Nav, Layout } from '../components';
-import ArrowIcon from '../components/ArrowIcon';
 import { getGlobalData } from '../utils/global-data';
 import SEO from '../components/SEO';
 
